@@ -1,0 +1,27 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+
+    "screen1": "Screen 1",
+    "@screen1": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "screen2":"Screen 2",
+    "@screen2": {
+    },
+    "enterYourName":"Enter your name",
+    "@enterYourName": {
+    },
+    "yourName":"Your name",
+    "@yourName": {
+    },
+    "nextScreen":"Next Screen",
+    "@nextScreen": {
+    }, 
+    "welcome":"Welcome:",
+    "@welcome": {
+      
+    }
+}
